@@ -30,11 +30,12 @@ A Bash-based Linux system audit tool that gathers useful host and security-relat
   - df
   - free
 
-## How to Run
+## 🔧 Usage
 
 ```bash
 chmod +x audit.sh
 ./audit.sh
+```
 
 ## Project Purpose
 
@@ -76,6 +77,13 @@ Example output:
 - Add privilege checks  
 - Add quick/full audit modes  
 - Improve formatting further  
+
+---
+
+## ⚠️ Disclaimer
+
+This tool is intended for educational and authorized use only.
+Do not use it on systems you do not own or have permission to test.
 
 ---
 
