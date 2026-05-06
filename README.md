@@ -98,8 +98,7 @@ Do not use it on systems you do not own or have permission to test.
 
 ## Author
 
-Kian Bahia  
-🔗 [GitHub Profile](https://github.com/k14nx0)
+Kian Bahia 🔗 [GitHub Profile](https://github.com/k14nx0)
 
 ---
 
