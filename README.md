@@ -33,7 +33,9 @@ A Bash-based Linux system audit tool that gathers useful host and security-relat
 ## 🔧 Usage
 
 ```bash
+# Make the script executable
 chmod +x audit.sh
+# Run the toolkit
 ./audit.sh
 ```
 
